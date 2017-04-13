@@ -1,6 +1,15 @@
 #include <iostream>
 #include <windows.h>
 #include <winuser.h>   
+/*
+ __      ___            _                        
+ \ \    / / |_____ _  _| |___  __ _ __ _ ___ _ _ 
+  \ \/\/ /| / / -_) || | / _ \/ _` / _` / -_) '_|
+   \_/\_/ |_\_\___|\_, |_\___/\__, \__, \___|_|  
+                   |__/       |___/|___/         v1.1
+	 					by: luisxciv
+						
+					*/
 
 using namespace std;  
 int Save (int key_stroke, char *file);
