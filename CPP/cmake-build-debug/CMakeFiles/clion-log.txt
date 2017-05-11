@@ -1,0 +1,2 @@
+CMakeLists.txt not found in C:\Users\Python\Documents\GitHub\WKeylogger\CPP
+Environment (MinGW/Cygwin) is not selected
