@@ -1,4 +1,4 @@
-# WKeylogger
+# Sylogger
 This is a simple Keylogger built on C++
 
 The purpose of this keylogger is to put it on a USB and run the setup file. The keys will be logged in the config/windows/sys32/log.txt file. The .exe file is located in the same directory. 
